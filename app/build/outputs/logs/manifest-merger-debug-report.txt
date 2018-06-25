@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:3:1-33:12
+MERGED from [devlight.io:navigationtabbar:1.2.5] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\navigationtabbar-1.2.5.aar\b60da56c4aab1c438cc8f1b4408e6030\AndroidManifest.xml:14:1-28:12
+MERGED from [com.android.support:design:23.2.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\design-23.2.1.aar\148ebebd1f585f51ebf9955ab349cc33\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\51f63cbb610ea40b9b3b6f202f67435a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\6c2498a64a9841d14a4a61dd3f605a44\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.2.1.aar\03a39007cc74422c887681ec42696424\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\0100ae68ab25f929994162bfb128190c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\bae2f66f5cd1cb54b82c025c54319791\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\65e5e8690c39832985a12c8da6416c00\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\1ab6ce12af76faab83cb7ed74f8c5e51\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\41cd9eb5a6c44627bab8c676e3d27237\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\72e9afb37cc9fa1985b22d4fde6fa1fe\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\b8118d84fc5252fcaf4b500d648821cb\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\b27549a99a4c95f541c1291ed21eccda\AndroidManifest.xml:17:1-27:12
+INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:6:5-80
+MERGED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-80
+MERGED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-81
+MERGED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:10:5-30:19
+MERGED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:5-31:19
+MERGED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:5-31:19
+MERGED from [devlight.io:navigationtabbar:1.2.5] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\navigationtabbar-1.2.5.aar\b60da56c4aab1c438cc8f1b4408e6030\AndroidManifest.xml:23:5-26:38
+MERGED from [devlight.io:navigationtabbar:1.2.5] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\navigationtabbar-1.2.5.aar\b60da56c4aab1c438cc8f1b4408e6030\AndroidManifest.xml:23:5-26:38
+MERGED from [com.android.support:design:23.2.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\design-23.2.1.aar\148ebebd1f585f51ebf9955ab349cc33\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.2.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\design-23.2.1.aar\148ebebd1f585f51ebf9955ab349cc33\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\51f63cbb610ea40b9b3b6f202f67435a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\51f63cbb610ea40b9b3b6f202f67435a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\6c2498a64a9841d14a4a61dd3f605a44\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\6c2498a64a9841d14a4a61dd3f605a44\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\0100ae68ab25f929994162bfb128190c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\0100ae68ab25f929994162bfb128190c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\bae2f66f5cd1cb54b82c025c54319791\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\bae2f66f5cd1cb54b82c025c54319791\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\65e5e8690c39832985a12c8da6416c00\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\65e5e8690c39832985a12c8da6416c00\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\1ab6ce12af76faab83cb7ed74f8c5e51\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\1ab6ce12af76faab83cb7ed74f8c5e51\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\41cd9eb5a6c44627bab8c676e3d27237\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\41cd9eb5a6c44627bab8c676e3d27237\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\72e9afb37cc9fa1985b22d4fde6fa1fe\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\72e9afb37cc9fa1985b22d4fde6fa1fe\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\b8118d84fc5252fcaf4b500d648821cb\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\b8118d84fc5252fcaf4b500d648821cb\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\b27549a99a4c95f541c1291ed21eccda\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\b27549a99a4c95f541c1291ed21eccda\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:13:9-41
+	android:vmSafeMode
+		ADDED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:9-34
+	android:icon
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:12:9-33
+		REJECTED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:15:9-40
+		REJECTED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:9-40
+	tools:replace
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:16:9-51
+activity#com.baidu.ocr.demo.MainActivity
+ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.baidu.ocr.demo.IDCardActivity
+ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:24:9-26:60
+	android:label
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:26:13-48
+	android:name
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:25:13-43
+activity#com.baidu.ocr.demo.PutongActivity
+ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:27:9-52
+	android:name
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:27:19-49
+activity#com.baidu.ocr.demo.IDActivity
+ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:28:9-48
+	android:name
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:28:19-45
+activity#com.baidu.ocr.demo.IdCardFrontActivity
+ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:29:9-66
+	android:name
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml:29:19-54
+uses-sdk
+INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml
+INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml
+MERGED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [devlight.io:navigationtabbar:1.2.5] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\navigationtabbar-1.2.5.aar\b60da56c4aab1c438cc8f1b4408e6030\AndroidManifest.xml:19:5-21:41
+MERGED from [devlight.io:navigationtabbar:1.2.5] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\navigationtabbar-1.2.5.aar\b60da56c4aab1c438cc8f1b4408e6030\AndroidManifest.xml:19:5-21:41
+MERGED from [com.android.support:design:23.2.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\design-23.2.1.aar\148ebebd1f585f51ebf9955ab349cc33\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.2.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\design-23.2.1.aar\148ebebd1f585f51ebf9955ab349cc33\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\51f63cbb610ea40b9b3b6f202f67435a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\51f63cbb610ea40b9b3b6f202f67435a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\6c2498a64a9841d14a4a61dd3f605a44\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\6c2498a64a9841d14a4a61dd3f605a44\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.2.1.aar\03a39007cc74422c887681ec42696424\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.2.1.aar\03a39007cc74422c887681ec42696424\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\0100ae68ab25f929994162bfb128190c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\0100ae68ab25f929994162bfb128190c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\bae2f66f5cd1cb54b82c025c54319791\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\bae2f66f5cd1cb54b82c025c54319791\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\65e5e8690c39832985a12c8da6416c00\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\65e5e8690c39832985a12c8da6416c00\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\1ab6ce12af76faab83cb7ed74f8c5e51\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\1ab6ce12af76faab83cb7ed74f8c5e51\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\41cd9eb5a6c44627bab8c676e3d27237\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\41cd9eb5a6c44627bab8c676e3d27237\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\72e9afb37cc9fa1985b22d4fde6fa1fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\72e9afb37cc9fa1985b22d4fde6fa1fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\b8118d84fc5252fcaf4b500d648821cb\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\b8118d84fc5252fcaf4b500d648821cb\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\b27549a99a4c95f541c1291ed21eccda\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\b27549a99a4c95f541c1291ed21eccda\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml
+INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\51f63cbb610ea40b9b3b6f202f67435a\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Desktop\ocr\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:22-62
+uses-feature#android.hardware.camera2.full
+ADDED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:19-63
+uses-feature#android.hardware.camera
+ADDED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-60
+	android:name
+		ADDED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:5-70
+	android:name
+		ADDED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:19-67
+activity#com.baidu.ocr.ui.camera.CameraActivity
+ADDED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:9-30:80
+	android:configChanges
+		ADDED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:29:13-59
+	android:theme
+		ADDED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:30:13-77
+	android:name
+		ADDED from [:ocr_ui] E:\Desktop\ocr\ocr_ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:13-66
